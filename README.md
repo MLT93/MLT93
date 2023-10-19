@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **markos_laviana@yahoo.es**
 
-- 📄 My CV Vite **
+- 📄 My CV Vite **https://github.com/MLT93/MLT93/blob/main/marcos-lambir-torres-CV.pdf**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
