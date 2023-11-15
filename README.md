@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Marcos Lambir Torres</h1>
-<h3 align="center">A passionate front-end or back-end developer from Argentina</h3>
+<h3 align="center">Passionate front-end or back-end developer from Argentina</h3>
 
 - 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MLT93](https://github.com/MLT93)
 
-- 📝 I regularly write articles on [https://discord.gg/w7gahPhC](https://discord.gg/w7gahPhC)
+- 📝 I regularly write articles on [https://discord.gg/W4Kh6Emn96](https://discord.gg/W4Kh6Emn96)
 
-- 💬 Ask me about **git, react, javascript, node.js**
+- 💬 Ask me about **git, react, javascript, typescript or node.js**
 
 - 📫 How to reach me **markos_laviana@yahoo.es**
 
-- 📄 My CV Vite **https://github.com/MLT93/MLT93/blob/main/marcos-lambir-torres-CV.pdf**
+- 📄 My CV **https://github.com/MLT93/MLT93/blob/main/marcos-lambir-torres-CV.pdf**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
