@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MLT93](https://github.com/MLT93)
 
-- 📄 Read my cover letter [https://github.com/MLT93/MLT93/blob/main/marcos-lambir-torres-presentation.pdf](https://github.com/MLT93/MLT93/blob/main/marcos-lambir-torres-presentation.pdf)
-
 - 💬 Ask me about **Git, React, Vite, JavaScript, TypeScript or Node.js**
 
 - 📫 How to reach me **markos_laviana@yahoo.es**
+
+- 📄 Read my cover letter [https://github.com/MLT93/MLT93/blob/main/marcos-lambir-torres-presentation.pdf](https://github.com/MLT93/MLT93/blob/main/marcos-lambir-torres-presentation.pdf)
 
 - 📄 Know about my experiences [https://github.com/MLT93/MLT93/blob/main/marcos-lambir-torres-CV.pdf](https://github.com/MLT93/MLT93/blob/main/marcos-lambir-torres-CV.pdf)
 
