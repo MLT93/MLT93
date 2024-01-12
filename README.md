@@ -9,17 +9,17 @@
 
 - 👨‍💻 All of my public projects are available at [MLT93](https://github.com/MLT93)
 
-- 💬 Ask me about **Git, React, Vite, JavaScript, MySQL, TypeScript or Node.js**
+- 💬 Ask me about **Git, React, Vite, JavaScript, MySQL, REST API, TypeScript or Node.js**
 
 - 📫 How to reach me **markos_laviana@yahoo.es**
 
-- 📄 Know about my experiences [https://github.com/MLT93/MLT93/blob/main/marcos-lambir-torres-CV_es-ES.pdf](https://github.com/MLT93/MLT93/blob/main/marcos-lambir-torres-CV_es-ES.pdf)
+- 📄 Know about my experiences [CV_es-ES](https://github.com/MLT93/MLT93/blob/main/marcos-lambir-torres-CV_es-ES.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mlt93/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mlt93/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:23019622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:23019622" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/uhX3dBn9sg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/uhX3dBn9sg" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/uhX3dBn9sg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/uhX3dBn9sg" height="30" width="40" />Markup Learning Technologies</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
