@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Emax Web](https://emaxenergia.com/)
 
-- 🌱 I’m currently learning **PHP into Codecademy**
+- 🌱 I’m currently learning [React Native into Codecademy](https://www.codecademy.com/learn/learn-react-native)
 
 - 👯 I’m looking to collaborate on [Web 3.0](https://github.com/Develhope-e3/pancake-swap)
 
