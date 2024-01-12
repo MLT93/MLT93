@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcos Lambir Torres</h1>
 <h3 align="center">A passionate front-end or back-end developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Banners](https://github.com/MLT93/banners) & [Emax Web](https://emaxenergia.com/)
+- 🔭 I’m currently working on [Emax Web](https://emaxenergia.com/)
 
 - 🌱 I’m currently learning **PHP into Codecademy**
 
