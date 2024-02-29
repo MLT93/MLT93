@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcos Lambir Torres</h1>
 <h3 align="center">A passionate front-end or back-end developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Emax Web](https://emaxenergia.com/) and [Hippo Clothes](https://hippo-clothes.com/)
+- 🔭 I’m currently working on [Emax Web](https://emaxenergia.com/), [Bubbo Tech Test](https://github.com/MLT93/bubbo-technical-test) and []()
 
 - 🌱 I’m currently learning [React Native into Codecademy](https://www.codecademy.com/learn/learn-react-native)
 
