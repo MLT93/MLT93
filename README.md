@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mlt93/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mlt93/" height="30" width="40" />Linkedin </a>
-<a href="https://stackoverflow.com/users/user:23019622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:23019622" height="30" width="40" />StackOverflow  </a>
+<a href="https://stackoverflow.com/users/23019622/mlt93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:23019622" height="30" width="40" />StackOverflow  </a>
 <a href="https://discord.gg/https://discord.gg/uhX3dBn9sg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/uhX3dBn9sg" height="30" width="40" />Markup Learning Technologies  </a>
 </p>
 
