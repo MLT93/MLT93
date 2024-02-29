@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my public projects are available at my [Repositories](https://github.com/MLT93?tab=repositories)
 
-- 💬 Ask me about **Git, React, Vite, JavaScript, MySQL, REST API, TypeScript or Node.js**
+- 💬 Ask me about **Git, React, Vite, JavaScript, CSS, SASS MySQL, REST API, TypeScript or Node.js**
 
 - 📫 How to reach me **markos_laviana@yahoo.es**
 
