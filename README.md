@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Web 3.0](https://github.com/Develhope-e3/pancake-swap)
 
-- 👨‍💻 All of my public projects are available at [MLT93](https://github.com/MLT93)
+- 👨‍💻 All of my public projects are available at my [Repositories]([https://github.com/MLT93](https://github.com/MLT93?tab=repositories))
 
 - 💬 Ask me about **Git, React, Vite, JavaScript, MySQL, REST API, TypeScript or Node.js**
 
