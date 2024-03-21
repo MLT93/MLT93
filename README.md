@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning [React Native](https://www.codecademy.com/learn/learn-react-native) with [Expo](https://expo.dev/) 
 
-- 👯 I’m looking to collaborate on [Web 3.0 project](https://github.com/Develhope-e3/pancake-swap)
+- 👯 I’m looking to collaborate on Web 3.0 project similar at this [Pancake Swap Project](pancake-swap-roan.vercel.app)
 
 - 👨‍💻 All of my public projects are available at my [Repositories](https://github.com/MLT93?tab=repositories)
 
