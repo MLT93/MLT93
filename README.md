@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Marcos Lambir Torres</h1>
 <h3 align="center">A passionate front-end or back-end developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Emax Web](https://emaxenergia.com/), [Bubbo Tech Test](https://github.com/MLT93/bubbo-technical-test) and []()
+- 🔭 I’m currently working on [Emax Web](https://github.com/Moguete/emax-web), [Bubbo Tech Test](https://github.com/MLT93/bubbo-technical-test) and [Asata Project](https://github.com/MLT93/ASATA)
 
-- 🌱 I’m currently learning [React Native into Codecademy](https://www.codecademy.com/learn/learn-react-native)
+- 🌱 I’m currently learning [React Native](https://www.codecademy.com/learn/learn-react-native) with [Expo](https://expo.dev/) 
 
-- 👯 I’m looking to collaborate on [Web 3.0](https://github.com/Develhope-e3/pancake-swap)
+- 👯 I’m looking to collaborate on Web 3.0 project similar at this [Pancake Swap Project](https://pancake-swap-roan.vercel.app/)
 
-- 👨‍💻 All of my public projects are available at [MLT93](https://github.com/MLT93)
+- 👨‍💻 All of my public projects are available at my [Repositories](https://github.com/MLT93?tab=repositories)
 
-- 💬 Ask me about **Git, React, Vite, JavaScript, MySQL, REST API, TypeScript or Node.js**
+- 💬 Ask me about **Git, React, Vite, JavaScript, CSS, SASS MySQL, REST API, TypeScript or Node.js**
 
 - 📫 How to reach me **markos_laviana@yahoo.es**
 
-- 📄 Know about my experiences [CV_es-ES](https://github.com/MLT93/MLT93/blob/main/marcos-lambir-torres-CV_es-ES.pdf)
+- 📄 Know about my experiences [CV_es-ES](https://github.com/MLT93/MLT93/blob/main/es_ES_CV_marcos-lambir-torres.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mlt93/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mlt93/" height="30" width="40" />Linkedin </a>
-<a href="https://stackoverflow.com/users/user:23019622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:23019622" height="30" width="40" />StackOverflow  </a>
-<a href="https://discord.gg/https://discord.gg/uhX3dBn9sg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/uhX3dBn9sg" height="30" width="40" />Markup Learning Technologies  </a>
+<a href="https://www.linkedin.com/in/mlt93/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mlt93/" height="30" width="40" />Linkedin </a>
+<a href="https://stackoverflow.com/users/23019622/mlt93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:23019622" height="30" width="40" />StackOverflow  </a>
+<a href="https://discord.gg/uhX3dBn9sg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/uhX3dBn9sg" height="30" width="40" />Markup Learning Technologies  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
