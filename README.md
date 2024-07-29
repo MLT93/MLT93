@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcos Lambir Torres</h1>
 <h3 align="center">A passionate front-end or back-end developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Emax Web](https://github.com/Moguete/emax-web), [Bubbo Tech Test](https://github.com/MLT93/bubbo-technical-test) and [Asata Project](https://github.com/MLT93/ASATA)
+- 🔭 I’m currently working on [Emax Web](https://github.com/Moguete/emax-web), [Devathon](https://github.com/ScanDaLouS47/devathon-frontend) and [E-Commerce Hippo Clothes](https://github.com/MLT93/ASATA)
 
 - 🌱 I’m currently learning [React Native](https://www.codecademy.com/learn/learn-react-native) with [Expo](https://expo.dev/) 
 
