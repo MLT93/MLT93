@@ -14,7 +14,7 @@
 - 📫 How to reach me **markos_laviana@yahoo.es**
 
 - 📄 Know about my experiences [CV_es-ES](https://github.com/MLT93/MLT93/blob/main/es_ES_CV_marcos-lambir-torres.pdf)
-
+<hr />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mlt93/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mlt93/" height="30" width="40" />Linkedin </a>
