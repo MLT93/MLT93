@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **markos_laviana@yahoo.es**
 
-- 📄 Know about my experiences [CV_es-ES](https://github.com/MLT93/MLT93/blob/main/es_ES_CV_marcos-lambir-torres.pdf)
+- 📄 Know about my resume [CV_es-ES](https://github.com/MLT93/MLT93/blob/main/es_ES_CV_marcos-lambir-torres.pdf)
 <hr />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
