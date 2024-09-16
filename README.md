@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcos Lambir Torres</h1>
 <h3 align="center">A passionate Jr Developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Emax Web](https://github.com/Moguete/emax-web) and [E-Commerce Hippo Clothes](https://github.com/MLT93/ASATA)
+- 🔭 I’m currently working on a little projects to add to my portfolio, like [gallery](https://github.com/MLT93/gallery)
 
 - 🌱 I’m currently learning [React](https://www.youtube.com/watch?v=oTGnOosMGS0&list=PLCKuOXG0bPi3x4cAt07EElVqk74hWb9ak) and [JAVA](https://www.youtube.com/watch?v=OS1F6VNA6hs&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=10)
 
