@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marcos Lambir Torres</h1>
 <h3 align="center">A passionate Developer from Argentina</h3>
-<br />
+
 - 🔭 I’m currently working in Jakala Iberia
 
 - 🌱 I’m currently learning backend architectures
@@ -12,6 +12,7 @@
 - 📫 How to reach me **markos_laviana@yahoo.es**
 
 - 📄 Ask me about my resume
+
 <br />
 <hr />
 <h3 align="left">Connect with me:</h3>
