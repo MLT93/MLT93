@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **markos_laviana@yahoo.es**
 
-<br />
 <hr />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
