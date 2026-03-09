@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcos Lambir Torres</h1>
-<h3 align="center">A passionate Developer from Argentina</h3>
+<h3 align="left">A passionate Developer:</h3>
 
 - 🔭 I’m currently working in Jakala Iberia
 
