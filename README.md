@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning backend architectures
 
-- 👨‍💻 All of my public projects are available at my [Repositories](https://github.com/MLT93?tab=repositories)
+- 👨‍💻 All of my public projects are available at my **[Repositories](https://github.com/MLT93?tab=repositories)**
 
 - 💬 Ask me about **my resume**
 
