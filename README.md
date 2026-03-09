@@ -7,11 +7,9 @@
 
 - 👨‍💻 All of my public projects are available at my [Repositories](https://github.com/MLT93?tab=repositories)
 
-- 💬 Ask me about **dev life**
+- 💬 Ask me about **my resume**
 
 - 📫 How to reach me **markos_laviana@yahoo.es**
-
-- 📄 Ask me about my resume
 
 <br />
 <hr />
