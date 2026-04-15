@@ -13,9 +13,20 @@
 
 <hr />
 <h3 align="left">Connect with me:</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/mlt93/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mlt93/" height="30" width="40" />Linkedin </a>
+    </td>
+    <td>
+      <a href="https://stackoverflow.com/users/23019622/mlt93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:23019622" height="30" width="40" />StackOverflow </a>
+    </td>
+    <td>
+      <a href="https://discord.gg/uhX3dBn9sg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/uhX3dBn9sg" height="30" width="40" />Mark Learning Tech </a>
+    </td>
+  </tr>
+</table>
 <p align="left">
-<a width="50" href="https://www.linkedin.com/in/mlt93/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mlt93/" height="30" width="40" />Linkedin </a>
-<a width="50" href="https://stackoverflow.com/users/23019622/mlt93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:23019622" height="30" width="40" />StackOverflow </a>
-<a width="50" href="https://discord.gg/uhX3dBn9sg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/uhX3dBn9sg" height="30" width="40" />Mark Learning Tech </a>
 </p>
 <hr />
